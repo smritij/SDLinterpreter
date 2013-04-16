@@ -15,6 +15,7 @@ import Data.Char
 import Graphics.UI.GLUT
 import Graphics.Rendering.OpenGL
 import System.Environment
+--hello
 
 
 createAWindow windowName arg = do
